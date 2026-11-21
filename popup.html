@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>TabPulse</title>
+  <link rel="stylesheet" href="ui-base.css">
+  <style>
+    .tab-row { display:flex; align-items:center; gap:7px; padding:6px 8px; border-radius:7px; border:1px solid var(--border); background:rgba(15,23,42,0.75); cursor:pointer; }
+    .tab-row.active-tab { border-color: var(--accent); background: rgba(167,139,250,0.14); }
+    .tab-row.selected { outline: 1px solid #f8fafc; }
+    .tab-row img { width:15px; height:15px; border-radius:3px; flex-shrink:0; }
+    .tab-meta { min-width:0; flex:1; }
+    .tab-actions { display:flex; gap:4px; }
+    .icon-btn { background:transparent; border:none; color:var(--muted); cursor:pointer; padding:2px 4px; font-size:12px; border-radius:4px; }
+    .icon-btn:hover { background:rgba(255,255,255,0.1); color:#fff; }
+  </style>
+</head>
+<body>
+  <header class="app-header">
+    <div class="brand">
+      <img src="icons/icon48.png" alt="TabPulse">
+      <div>
+        <div class="brand-title">TabPulse</div>
+        <div class="brand-sub" id="summaryLine">Loading tabs...</div>
+      </div>
+    </div>
+    <button class="tier-pill" id="tierPill">FREE</button>
+  </header>
+
+  <nav class="tabs">
+    <button class="tab-btn active" data-tab="tabs">Tabs</button>
+    <button class="tab-btn" data-tab="power">Organize</button>
+    <button class="tab-btn" data-tab="pro">Pro</button>
+  </nav>
+
+  <main>
+    <section class="panel active" id="panel-tabs">
+      <div class="row" style="margin-bottom:8px;">
+        <input type="text" id="searchInput" placeholder="Fuzzy search tabs by title or URL... (↑↓ Enter)" autofocus>
+      </div>
+      <div class="row" style="margin-bottom:8px;">
+        <button class="btn btn-sm" id="dedupeBtn" style="flex:1;">✨ Dedupe (<span id="dupeCount">0</span>)</button>
+        <button class="btn btn-sm" id="autoGroupBtn" style="flex:1;">🗂 Auto-Group <span class="pro-tag">PRO</span></button>
+      </div>
+      <div class="list" id="tabList" style="max-height:335px;"></div>
+    </section>
+
+    <section class="panel" id="panel-power">
+      <div class="card">
+        <div class="card-title">Bulk Regex Tab Action <span class="pro-tag">PRO</span></div>
+        <input type="text" id="regexInput" placeholder="e.g. youtube\.com|reddit\.com">
+        <div class="row" style="margin-top:8px;">
+          <button class="btn btn-danger btn-sm" id="regexCloseBtn" style="flex:1;">Close Matching</button>
+          <button class="btn btn-sm" id="regexMoveBtn" style="flex:1;">Move to New Window</button>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-title">Workspace Export <span class="pro-tag">PRO</span></div>
+        <div class="row">
+          <button class="btn btn-sm" id="exportMdBtn" style="flex:1;">Export Markdown</button>
+          <button class="btn btn-sm" id="exportJsonBtn" style="flex:1;">Export JSON</button>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-title">Domain Breakdown</div>
+        <div class="list" id="domainStats" style="max-height:140px;"></div>
+      </div>
+    </section>
+
+    <section class="panel" id="panel-pro"></section>
+  </main>
+
+  <div class="toast" id="toast"></div>
+  <script type="module" src="popup.js"></script>
+</body>
+</html>
