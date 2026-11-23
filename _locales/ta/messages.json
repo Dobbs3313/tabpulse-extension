@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "TabPulse — வேகமான பல்-சாளர தாவல் மேலாளர்",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "TabPulse",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "உடனடி தேடல், செயலில் உள்ள தாவல் தானியங்கு-நகர்வு, நகல் நீக்கம் மற்றும் தானியங்கு குழுவாக்கம் கொண்ட தாவல் மேலாளர்.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "TabPulse — Hitri Upravitelj Zavihkov",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "TabPulse",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Upravitelj zavihkov v več oknih brez utripanja s hitrim iskanjem, odstranjevanjem podvojenih in samodejnim združevanjem.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

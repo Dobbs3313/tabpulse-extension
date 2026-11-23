@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "TabPulse — Hurtig Multi-Vindue Fanestyring",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "TabPulse",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Flimmerfri Chrome-fanestyring på tværs af vinduer med hurtig søgning, fjernelse af dubletter og automatisk gruppering.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

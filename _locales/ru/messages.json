@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "TabPulse — Быстрый менеджер вкладок",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "TabPulse",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Менеджер вкладок для нескольких окон без мерцания: мгновенный нечёткий поиск, удаление дубликатов и автогруппировка.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

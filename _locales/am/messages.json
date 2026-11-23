@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "TabPulse — ፈጣን ባለብዙ-መስኮት ትር አስተዳዳሪ",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "TabPulse",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "ያለ መብረቅ ፈጣን ፍለጋ፣ ንቁ ትር አሳሽ፣ ተደጋጋሚ ማጥፊያ እና ራስ-ሰር መቧደኛ ያለው የChrome ትር አስተዳዳሪ።",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

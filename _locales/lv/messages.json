@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "TabPulse — Ātrs Ciļņu Pārvaldnieks",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "TabPulse",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Vairāku logu ciļņu pārvaldnieks bez mirgošanas ar tūlītēju meklēšanu, dublikātu dzēšanu un automātisku grupēšanu.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

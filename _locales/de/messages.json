@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "TabPulse — Schneller Tab-Manager",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "TabPulse",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Flimmerfreier Multi-Fenster-Tab-Manager mit Sofort-Unscharfsuche, Auto-Scroll zum aktiven Tab, Duplikat-Bereinigung & Gruppierung.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

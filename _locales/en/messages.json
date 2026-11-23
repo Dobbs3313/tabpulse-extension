@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "TabPulse — Fast Multi-Window Tab Manager",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "TabPulse",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Zero-flicker multi-window Chrome tab manager with instant fuzzy search, active-tab auto-scroll, deduplication, and auto-grouping.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

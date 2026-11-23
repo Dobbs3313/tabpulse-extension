@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "TabPulse — Greita Kortelių Tvarkyklė",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "TabPulse",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Nemirksinti kelių langų Chrome kortelių tvarkyklė su greita paieška, dublikatų šalinimu ir automatiniu grupavimu.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

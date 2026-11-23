@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "TabPulse — Gestor Rápido de Pestañas",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "TabPulse",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Gestor multiventana de pestañas sin parpadeos con búsqueda difusa rápida, foco en la pestaña activa, deduplicado y agrupación.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

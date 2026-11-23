@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "TabPulse — Snelle Tabbladbeheerder",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "TabPulse",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Flikkervrije tabbladbeheerder voor meerdere vensters met directe zoekfunctie, ontdubbeling en automatisch groeperen.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

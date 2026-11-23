@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "TabPulse — Pengelola Tab Cepat Multi-Jendela",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "TabPulse",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Pengelola tab Chrome multi-jendela tanpa kedip dengan pencarian cepat, auto-gulir tab aktif, hapus duplikat & grup otomatis.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

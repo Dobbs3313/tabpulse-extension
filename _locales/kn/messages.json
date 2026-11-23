@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "TabPulse — ವೇಗದ ಮಲ್ಟಿ-ವಿಂಡೋ ಟ್ಯಾಬ್ ಮ್ಯಾನೇಜರ್",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "TabPulse",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "ತ್ವರಿತ ಫಜಿ ಹುಡುಕಾಟ, ಸಕ್ರಿಯ ಟ್ಯಾಬ್ ಆಟೋ-ಸ್ಕ್ರಾಲ್, ನಕಲಿ ಟ್ಯಾಬ್ ಅಳಿಸುವಿಕೆ ಮತ್ತು ಸ್ವಯಂ-ಗುಂಪುಗೊಳಿಸುವ ಟ್ಯಾಬ್ ಮ್ಯಾನೇಜರ್.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

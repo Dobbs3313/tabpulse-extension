@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "TabPulse — Brzi Upravitelj Kartica",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "TabPulse",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Upravitelj kartica za više prozora bez treperenja s trenutnim pretraživanjem, uklanjanjem duplikata i grupiranjem.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

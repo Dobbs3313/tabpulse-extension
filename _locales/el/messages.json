@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "TabPulse — Γρήγορη Διαχείριση Καρτελών",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "TabPulse",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Διαχειριστής καρτελών πολλαπλών παραθύρων χωρίς τρεμόπαιγμα, με άμεση αναζήτηση, αφαίρεση διπλότυπων και ομαδοποίηση.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

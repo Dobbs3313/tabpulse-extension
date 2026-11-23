@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "TabPulse — Rýchly správca kariet Chrome",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "TabPulse",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Správca kariet pre viac okien bez preblikávania s okamžitým vyhľadávaním, odstránením duplicít a automatickým zoskupením.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

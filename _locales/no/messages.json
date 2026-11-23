@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "TabPulse — Rask Fane- og Vindusbehandler",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "TabPulse",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Flimmerfri Chrome-fanebehandler for flere vinduer med umiddelbart søk, duplikatfjerning og automatisk gruppering.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

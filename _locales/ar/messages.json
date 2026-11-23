@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "TabPulse — مدير علامات تبويب سريع",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "TabPulse",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "مدير نوافذ وتبويبات خالٍ من الوميض مع بحث فوري ضبابي، إزالة التكرار، وتجميع تلقائي لعلامات التبويب.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

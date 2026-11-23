@@ -3,8 +3,11 @@
 - **Title:** TabPulse — Zero-Flicker Multi-Window Tab Sear
 - **Category:** Make Chrome Yours -> Functionality & UI
 - **Version:** 1.0.0
+- **Locales:** 56 Chrome Web Store languages (`_locales/`)
 - **Pricing:** Free with optional Stripe Pro upgrade ($2.99/mo · $19.99/yr · $29.99 Lifetime)
-- **Privacy Policy URL:** `https://github.com/Dobbs3313/tabpulse-extension/blob/main/store-assets/PRIVACY_POLICY.md`
+- **Homepage URL:** `https://arisparty.org/extensions/tabpulse`
+- **Support URL:** `https://arisparty.org/extensions/tabpulse/support`
+- **Privacy Policy URL:** `https://arisparty.org/extensions/tabpulse/privacy`
 
 ## Short Description (<= 132 chars)
 Zero-Flicker Multi-Window Tab Search, Dedupe & Auto-Grouper. Fast, privacy-first Manifest V3 utility with zero ads or telemetry.
@@ -24,6 +27,11 @@ Zero-Flicker Multi-Window Tab Search, Dedupe & Auto-Grouper. Fast, privacy-first
 - Bulk regex filter to close, pin, or move matching tabs to a new window
 - Per-window tab limit alerts & stale-tab spotlight
 - Export open workspace tabs as Markdown or JSON
+
+### Privacy & Support
+- Product & docs: https://arisparty.org/extensions/tabpulse
+- Privacy policy: https://arisparty.org/extensions/tabpulse/privacy
+- Support & setup: https://arisparty.org/extensions/tabpulse/support (support@arisparty.org)
 
 ### Stripe Live Checkout Links
 - Monthly ($2.99/mo): https://buy.stripe.com/aFaeVdcbJ1dvbqn8mKg3606

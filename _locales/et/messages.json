@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "TabPulse — Kiire Mitme Akna Kaardihaldur",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "TabPulse",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Vilgumiseta mitme akna Chrome'i vahekaartide haldur kiire otsingu, duplikaatide eemaldamise ja automaatse grupeerimisega.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

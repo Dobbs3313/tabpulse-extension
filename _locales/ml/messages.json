@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "TabPulse — അതിവേഗ ടാബ് മാനേജർ",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "TabPulse",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "തൽക്ഷണ ഫസി തിരയൽ, സജീവ ടാബ് ഓട്ടോ-സ്ക്രോൾ, ഡ്യൂപ്ലിക്കേറ്റ് നീക്കൽ, ഓട്ടോ-ഗ്രൂപ്പിംഗ് എന്നിവയുള്ള Chrome ടാബ് മാനേജർ.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

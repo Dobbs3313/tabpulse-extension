@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "TabPulse — Manager Rapid de File",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "TabPulse",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Manager de file fără pâlpâire pentru ferestre multiple, cu căutare rapidă, eliminarea dublurilor și grupare automată.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

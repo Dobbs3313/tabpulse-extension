@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "TabPulse — 高速マルチウィンドウタブ管理",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "TabPulse",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "ちらつきゼロで複数ウィンドウのタブを管理。高速あいまい検索、アクティブタブ自動表示、重複削除、自動グループ化対応。",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "TabPulse — מנהל לשוניות מהיר",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "TabPulse",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "מנהל לשוניות רב-חלוני ללא הבהוב עם חיפוש מהיר, גלילה ללשונית פעילה, הסרת כפילויות וקיבוץ אוטומטי.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

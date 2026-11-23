@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "TabPulse — वेगवान मल्टी-विंडो टॅब व्यवस्थापक",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "TabPulse",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "झटपट फझी शोध, सक्रिय टॅब ऑटो-स्क्रोल, डुप्लिकेट काढणे आणि ऑटो-ग्रुपिंगसह फ्लिकर-मुक्त Chrome टॅब व्यवस्थापक.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "TabPulse — 极速多窗口标签页管理",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "TabPulse",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "无闪烁的多窗口 Chrome 标签页管理工具，支持即时模糊搜索、自动定位当前标签页、去重与自动分组。",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "TabPulse — দ্রুত ট্যাব ম্যানেজার",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "TabPulse",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "তাৎক্ষণিক ফাজি অনুসন্ধান, সক্রিয়-ট্যাব অটো-স্ক্রল, ডুপ্লিকেট অপসারণ ও অটো-গ্রুপিংসহ Chrome ট্যাব ম্যানেজার।",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

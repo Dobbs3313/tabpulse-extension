@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "TabPulse — 極速多視窗分頁管理",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "TabPulse",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "無閃爍的多視窗 Chrome 分頁管理工具，支援即時模糊搜尋、自動定位使用中分頁、重複清理與自動分組。",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

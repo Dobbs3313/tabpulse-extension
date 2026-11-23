@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "TabPulse — مدیر سریع زبانه‌ها",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "TabPulse",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "مدیریت زبانه‌های چند پنجره بدون لرزش با جستجوی فوری، حذف زبانه‌های تکراری و گروه‌بندی خودکار.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

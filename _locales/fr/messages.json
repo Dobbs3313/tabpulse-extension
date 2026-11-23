@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "TabPulse — Gestionnaire d’Onglets Rapide",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "TabPulse",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Gestionnaire d’onglets multi-fenêtres sans scintillement : recherche floue instantanée, dédoublonnage et groupement automatique.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

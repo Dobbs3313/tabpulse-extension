@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "TabPulse — Pengurus Tab Pantas",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "TabPulse",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Pengurus tab Chrome tanpa kelipan dengan carian pantas, tatal automatik tab aktif, nyahduplikat dan kumpul automatik.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

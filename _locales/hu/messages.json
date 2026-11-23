@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "TabPulse — Gyors Többablakos Lapkezelő",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "TabPulse",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Villogásmentes többablakos Chrome lapkezelő azonnali kereséssel, ismétlések törlésével és automatikus csoportosítással.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

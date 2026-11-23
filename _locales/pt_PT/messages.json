@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "TabPulse — Gestor Rápido de Separadores",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "TabPulse",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Gestor de separadores sem cintilação com pesquisa difusa rápida, deslocação para o separador ativo, deduplicação e agrupamento.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

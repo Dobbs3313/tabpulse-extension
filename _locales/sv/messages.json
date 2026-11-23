@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "TabPulse — Snabb Flikhanterare",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "TabPulse",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Flimmerfri flikhanterare med omedelbar sökning, automatisk rullning till aktiv flik, dubblettrensning och gruppering.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

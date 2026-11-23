@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "TabPulse — तेज़ मल्टी-विंडो टैब प्रबंधक",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "TabPulse",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "तुरंत फ़ज़ी खोज, सक्रिय टैब ऑटो-स्क्रॉल, डुप्लिकेट हटाने और ऑटो-ग्रुपिंग वाला ज़ीरो-फ़्लिकर Chrome टैब प्रबंधक।",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "TabPulse — Fast Multi-Window Tab Manager",
-  "short_name": "TabPulse",
-  "description": "Zero-flicker multi-window Chrome tab manager with instant fuzzy search, active-tab auto-scroll, deduplication, and auto-grouping.",
+  "name": "__MSG_appName__",
+  "short_name": "__MSG_appShortName__",
+  "description": "__MSG_appDescription__",
   "version": "1.0.0",
   "icons": {
     "16": "icons/icon16.png",
@@ -11,7 +11,7 @@
     "128": "icons/icon128.png"
   },
   "action": {
-    "default_title": "TabPulse",
+    "default_title": "__MSG_appShortName__",
     "default_popup": "popup.html"
   },
   "background": {
@@ -25,8 +25,11 @@
   ],
   "commands": {
     "_execute_action": {
-      "suggested_key": { "default": "Alt+Shift+T" },
+      "suggested_key": {
+        "default": "Alt+Shift+T"
+      },
       "description": "Open TabPulse instant search"
     }
-  }
+  },
+  "default_locale": "en"
 }

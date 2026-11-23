@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "TabPulse — Бърз мениджър на раздели",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "TabPulse",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Мениджър на раздели за много прозорци без трептене с мигновено търсене, премахване на дубликати и автогрупиране.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

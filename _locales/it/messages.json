@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "TabPulse — Gestore Schede Multi-Finestra",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "TabPulse",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Gestore schede rapido senza sfarfallio con ricerca fuzzy immediata, scorrimento sulla scheda attiva, deduplica e raggruppamento.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

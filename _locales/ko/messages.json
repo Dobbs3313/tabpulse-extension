@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "TabPulse — 빠른 다중 창 탭 관리자",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "TabPulse",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "깜빡임 없는 다중 창 크롬 탭 관리자. 즉시 퍼지 검색, 활성 탭 자동 스크롤, 중복 제거, 자동 그룹화를 지원합니다.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "TabPulse — Gerenciador Rápido de Abas",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "TabPulse",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Gerenciador de abas multijanela sem tremulação com busca aproximada instantânea, remoção de duplicatas e agrupamento automático.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "TabPulse — Hızlı Sekme Yöneticisi",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "TabPulse",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Titreşimsiz çoklu pencere Chrome sekme yöneticisi; anlık bulanık arama, yinelenen sekme temizleme ve otomatik gruplama.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

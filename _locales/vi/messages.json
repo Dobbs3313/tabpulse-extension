@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "TabPulse — Quản Lý Tab Đa Cửa Sổ Nhanh",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "TabPulse",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Quản lý tab Chrome đa cửa sổ không giật hình với tìm kiếm mờ tức thì, khử trùng lặp và tự động gom nhóm.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

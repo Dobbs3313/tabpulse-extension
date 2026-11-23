@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "TabPulse — Szybki Menedżer Kart",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "TabPulse",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Menedżer kart bez migotania dla wielu okien: szybkie wyszukiwanie rozmyte, usuwanie duplikatów i automatyczne grupowanie.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

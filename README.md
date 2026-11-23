@@ -4,6 +4,10 @@
 
 A fast, privacy-first Chrome Manifest V3 extension built by **ARIS PARTY LLC** to outperform **Tab Manager Plus** (`cnkdjjdmfiffagllbiiilooaoofcoeff`, 200K+ users, 4.5★).
 
+- **Product Page:** https://arisparty.org/extensions/tabpulse
+- **Privacy Policy:** https://arisparty.org/extensions/tabpulse/privacy
+- **Support & Setup:** https://arisparty.org/extensions/tabpulse/support (`support@arisparty.org`)
+
 ## Competitive Advantages
 - Replaces Tab Manager Plus (200K users, 4.6MB React bundle with v7.0.0 flashing/search bugs)
 - 75x smaller pure-DOM popup with zero horizontal shift or flicker
@@ -41,4 +45,4 @@ A fast, privacy-first Chrome Manifest V3 extension built by **ARIS PARTY LLC** t
 ```bash
 node tests/verify.mjs .
 ```
-Outputs a store-ready archive at `dist/tabpulse-extension-v1.0.0.zip`.
+Outputs a store-ready archive with 56 `_locales` at `dist/tabpulse-extension-v1.0.0.zip`.

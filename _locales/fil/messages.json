@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "TabPulse — Mabilis na Tab Manager",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "TabPulse",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Zero-flicker multi-window Chrome tab manager na may instant fuzzy search, deduplication, at auto-grouping.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

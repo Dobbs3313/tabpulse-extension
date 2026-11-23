@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "TabPulse — จัดการแท็บหลายหน้าต่างไว",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "TabPulse",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "ตัวจัดการแท็บหลายหน้าต่างไร้การกระพริบ ค้นหาเร็วทันใจ เลื่อนหาแท็บใช้งาน ลบแท็บซ้ำ และจัดกลุ่มอัตโนมัติ",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}
